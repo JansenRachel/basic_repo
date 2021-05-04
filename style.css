@@ -8,11 +8,12 @@ h1{
     color: royalblue;
     padding: 25px;
     text-decoration: underline;
-    background-color: seagreen;
+    background-color: rgb(73, 172, 116);
+    border: solid skyblue;
 }
 p{
-    font-style: italic;
+    /* font-style: italic; */
     background-color: silver;
     color: gold;
-    margin: 15px 35px;
+    margin: 15px 45px;
 }
