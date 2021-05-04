@@ -1,0 +1,18 @@
+*{
+    padding: 10px;
+    margin: 0;
+    border: 0;
+    outline: dotted red;
+}
+h1{
+    color: royalblue;
+    padding: 25px;
+    text-decoration: underline;
+    background-color: seagreen;
+}
+p{
+    font-style: italic;
+    background-color: silver;
+    color: gold;
+    margin: 15px 35px;
+}
